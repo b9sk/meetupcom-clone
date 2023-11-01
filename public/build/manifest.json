@@ -1,8 +1,12 @@
 {
-  "resources/css/app.css": {
-    "file": "assets/app-d52ff982.css",
+  "resources/css/app.scss": {
+    "file": "assets/app-e28f54c0.css",
     "isEntry": true,
-    "src": "resources/css/app.css"
+    "src": "resources/css/app.scss"
+  },
+  "resources/images/logo.svg": {
+    "file": "assets/logo-7e42be13.svg",
+    "src": "resources/images/logo.svg"
   },
   "resources/js/app.js": {
     "file": "assets/app-2cd9247b.js",
