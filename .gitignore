@@ -15,3 +15,4 @@ yarn-error.log
 /.vscode
 /sail
 /public/build/assets/*
+public/build/manifest.json
